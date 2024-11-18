@@ -1,0 +1,38 @@
+/* regole body */
+body{
+    font-size: 34px;
+}
+/* Copertina iniziale */
+div{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 174, 255);
+    height: 128px;
+    background-size: 510px;
+}
+#logo{
+    width: 300px;
+    margin-top: 59px;
+}
+/* Regole titolo */
+h1{
+    font-size: 70px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+#grigio{
+    color: gray;
+}
+#blu{
+    color:rgb(9, 195, 252);
+}
+#data{
+    color: gray;
+    font-size: 22px;
+}
+.timph{
+    height: 652px;
+}
+#photo{
+    font-size: 22px;
+}
