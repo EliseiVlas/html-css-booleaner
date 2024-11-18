@@ -56,6 +56,18 @@ thead{
 h5{
     color: gray;
 } 
-#monitor{
+
+#imagine1{
     background-image: url(../img/monitor.jpg);
+    width: 440px;
+    height: 320px;
+    text-align: center;
+    color: white;
+}
+#imagine2{
+    background-image: url(../img/graph.jpg);
+    width: 440px;
+    height: 320px;
+    text-align: center;
+    color: white;
 }
